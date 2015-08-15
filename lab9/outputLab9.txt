@@ -1,0 +1,33 @@
+and	19	
+a	72	
+been	30	
+better	164	
+but	93	
+do	161	
+dsa	88	
+expectation	140	
+good	74	
+grade	79	
+hard	43	
+have	25	
+hope	153	
+in	85	
+is	8	112	
+i	23	
+jayati	11	191	
+lately	48	
+my	0	137	
+name	3	
+not	115	
+per	133	
+programme	102	
+quite	127	
+running	119	
+score	66	
+thank	181	
+this	97	171	
+time	176	
+to	63	158	
+trying	56	
+working	35	
+you	187	

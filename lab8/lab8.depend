@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1285078690 source:c:\users\jayati\desktop\handouts\lab8\destroyhash.c
+	"DriverHashOps.h"
+
+1284994363 c:\users\jayati\desktop\handouts\lab8\driverhashops.h
+	"DriverHash.h"
+	<stdio.h>
+	<stdlib.h>
+
+1284998531 c:\users\jayati\desktop\handouts\lab8\driverhash.h
+	"History.h"
+
+1285002275 c:\users\jayati\desktop\handouts\lab8\history.h
+
+1285078690 source:c:\users\jayati\desktop\handouts\lab8\destroypolicetree.c
+	"PoliceTreeOps.h"
+
+1285001420 c:\users\jayati\desktop\handouts\lab8\policetreeops.h
+	"PoliceTree.h"
+	<stdio.h>
+	<stdlib.h>
+
+1428574812 c:\users\jayati\desktop\handouts\lab8\policetree.h
+	"History.h"
+
+1285080316 source:c:\users\jayati\desktop\handouts\lab8\fine.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DriverHashOps.h"
+	"PoliceTreeOps.h"
+
+1285078690 source:c:\users\jayati\desktop\handouts\lab8\initializehash.c
+	"DriverHashOps.h"
+
+1285081626 source:c:\users\jayati\desktop\handouts\lab8\insertbypoliceid.c
+	"PoliceTreeOps.h"
+
+1285078690 source:c:\users\jayati\desktop\handouts\lab8\inserthash.c
+	"DriverHashOps.h"
+
+1428600486 source:c:\users\jayati\desktop\handouts\lab8\printbonuspolicemen.c
+	"PoliceTreeOps.h"
+
+1285079677 source:c:\users\jayati\desktop\handouts\lab8\printpolicetree.c
+	"PoliceTreeOps.h"
+
+1285078690 source:c:\users\jayati\desktop\handouts\lab8\printviolators.c
+	"DriverHashOps.h"
+
+1428600795 source:c:\users\jayati\desktop\handouts\lab8\reorderbyfineamount.c
+	"PoliceTreeOps.h"
+	<assert.h>
+

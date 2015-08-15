@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426779069 source:c:\users\jayati\desktop\handouts\labtest dsa-file io\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

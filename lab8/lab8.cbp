@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lab8" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lab8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="input.txt" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lab8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="DriverHash.h" />
+		<Unit filename="DriverHashOps.h" />
+		<Unit filename="History.h" />
+		<Unit filename="PoliceTree.h" />
+		<Unit filename="PoliceTreeOps.h" />
+		<Unit filename="destroyHash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="destroyPoliceTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fine.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="initializeHash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="insertByPoliceId.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="insertHash.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printBonusPolicemen.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printPoliceTree.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printViolators.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="reorderByFineAmount.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

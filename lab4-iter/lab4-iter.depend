@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1424292008 source:c:\users\jayati\desktop\handouts\lab4-iter\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
